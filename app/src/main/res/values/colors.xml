@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="arkaplan">#121212 </color>
+    <color name="butonRenk">#4B2A1E </color>
+    <color name="sari">#fff82b </color>
+
+    <color name="slightly_transparent_white">#B3FFFFFF</color> <!-- %70 Opak Beyaz -->
+
+    <!-- boxStrokeColorStateList için color state list -->
+    <color name="text_input_layout_stroke_color_white">@color/white</color>
+
+</resources>

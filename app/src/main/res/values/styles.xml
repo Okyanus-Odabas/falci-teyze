@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.App.TextInputLayout.White" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/kenar_renk_selector</item>
+        <item name="hintTextColor">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+        <item name="boxBackgroundColor">@android:color/transparent</item>
+    </style>
+
+
+        <!-- FilledBox kullanıyorsanız parent'ı ona göre değiştirin: -->
+        <!-- <style name="Widget.App.TextInputLayout.White" parent="Widget.MaterialComponents.TextInputLayout.FilledBox"> -->
+        <!-- FilledBox için boxBackgroundColor ayarını da yapmanız gerekebilir -->
+        <!-- <item name="boxBackgroundColor">@color/your_desired_filled_box_background_color</item> -->
+        <!-- </style> -->
+
+</resources>
