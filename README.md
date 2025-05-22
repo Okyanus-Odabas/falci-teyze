@@ -13,14 +13,6 @@ Falcı Teyze, kahve falı ve rüya yorumlarını yapay zeka destekli bir şekild
 - 🔮 Astrolojik olayları yorumlara entegre etme (opsiyonel)
 - 🎨 Özgün arayüz tasarımı ve Lottie animasyon desteği
 
----
-
-## 📸 Ekran Görüntüleri
-
-> (İstersen buraya birkaç ekran görüntüsü ekleyebilirsin)
-
----
-
 ## 🛠️ Kurulum
 
 ### 1. Projeyi Klonla:
