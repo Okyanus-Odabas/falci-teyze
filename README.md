@@ -15,9 +15,15 @@ Falcı Teyze, kahve falı ve rüya yorumlarını yapay zeka destekli bir şekild
 
 ## 📸 Ekran Görüntüleri
 
-> (İstersen buraya birkaç ekran görüntüsü ekleyebilirsin)
+### 🏠 Home Page
+![Anasayfa](AnasayfaSayfa.png)
 
----
+### ☕ Fal Page
+![Fal](FalSayfa.png)
+
+### 🌙 Dream Page
+![Rüya](RuyaSayfa.png)
+
 
 ## 🛠️ Kurulum
 
