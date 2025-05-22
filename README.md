@@ -66,11 +66,12 @@ Bu proje bireysel bir geliştirici çalışmasıdır ve eğlence amaçlıdır. A
 
 ## 🧑‍💻 Geliştiren
 
-**[@kullaniciadi](https://github.com/kullaniciadi)**  
-Baykar Teknolojileri | UCAV Pilot & Android Developer
+**[@okyanus-odabas](https://github.com/Okyanus-Odabas)**  
+Android Developer
 
 ---
 
-## 📄 Lisans
+## 📄 License
 
-MIT Lisansı ile lisanslanmıştır.
+Custom License – No commercial use allowed.  
+© 2025 Okyanus Odabaş. All rights reserved.
